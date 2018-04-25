@@ -3,6 +3,8 @@
 // see http://vuejs-templates.github.io/webpack for documentation.
 
 const path = require('path')
+// const { dev } = require('./dev.env')
+
 
 module.exports = {
   dev: {
@@ -42,7 +44,7 @@ module.exports = {
 
     cssSourceMap: true
   },
-
+  //dev,
   build: {
     // Template for index.html
     index: path.resolve(__dirname, '../dist/index.html'),

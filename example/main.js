@@ -3,6 +3,10 @@
 import Vue from 'vue'
 import App from './App'
 
+import Vmove from '../src/index'
+
+Vue.use(Vmove)
+
 Vue.config.productionTip = false
 
 /* eslint-disable no-new */

@@ -1,8 +1,8 @@
 <template>
   <div class="hello">
-    <div class="box1" v-move>box1</div>
-    <div class="box2" v-move>box2</div>
-    <div class="box3">box3</div>
+    <div class="box1" v-move></div>
+    <div class="box2" v-move></div>
+    <div class="box3" v-move></div>
   </div>
 </template>
 
@@ -27,7 +27,8 @@ export default {
 .box1{
   width:200px;
   height:200px;
-  background-color:rgb(65,184,139)
+  background-color:rgb(65,184,139);
+  position:absolute;
 }
 .box2{
   width:200px;

@@ -16,9 +16,9 @@
 </template>
 ```
 
-由于不能录制gif图，静态图片凑合看一下。
+~~由于不能录制gif图，静态图片凑合看一下。~~ 找到一个超好用截屏gif工具,推荐一下*ScreenToGif*
 
-![](static/1.png)
+![](static/move.gif)
 
 ## 功能
 
